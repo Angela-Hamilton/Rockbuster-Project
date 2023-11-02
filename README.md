@@ -1,2 +1,2 @@
-# SQL-Queries
-SQL database queries
+# Rockbuster Project
+Database Querying in SQL
