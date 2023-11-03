@@ -6,8 +6,7 @@ Rockbuster Stealth,
 LLC is a movie rental company that used to have stores worldwide. They are now facing stiff competition from streaming services like Netflix and Amazon Prime. The movie rental company plans to use its existing movie licenses to launch an online video rental service to stay competitive. The objective is to analyze the data from the online video streaming industry and provide data-driven answers and recommendations to Rockbuster’s Management team to make strategic business plans for their 2020 online video launch. 
 
 # Data
-Rockbuster’s data was loaded into a relational database management system (RDBMS) consisting of 15 tables containing information about Rockbuster’s film inventory, customers, and payments, among other things. The Entity Relationship Diagram (ERD) can be found in the Rockbuster Data Dictionary [Data Dictionary](file:///C:/Users/maad0/OneDrive/CAREERFOUNDRY%20NOTES/Data%20Immersion/Data%20Visualization/INTRO%20TO%20RELATIONAL%20DATABASES/Rockbuster%20Data%20Dictionary_ah.pdf). 
-Tableau visualizations of this project can be found using these links [Tableau Visualizations]().
+Rockbuster’s data was loaded into a relational database management system (RDBMS) consisting of 15 tables containing information about Rockbuster’s film inventory, customers, and payments, among other things. The Entity Relationship Diagram (ERD) can be found in the Rockbuster Data Dictionary. Tableau visualizations of this project can be found using these links [Tableau Visualizations](Bottom 3 Regions with Revenue Earnings Per Category | Tableau Public), [Top 5 Regions with the highest Sales Revenue](Top 5 Regions with the highest Sales Revenue | Tableau Public), [Top Customers Lifetime Value](Top Customers_Lifetime Value | Tableau Public).
  
 # Tools
 * PostgreSQL database
